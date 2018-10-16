@@ -1,0 +1,113 @@
+
+
+<style>
+
+.alkalineMetals{
+	background-color:red;
+
+}
+
+.nobleGases{
+
+	background-color:#ADD8E6;
+
+}
+
+.earthMetals{
+
+	background-color:#ffff00;
+
+}
+.metalloids{
+
+	background-color:#009966 /*(shamrock)*/;
+
+}
+
+.PosttransitionMetals{
+
+	background-color:#98ff98; /*(---!mint)*/
+}
+
+.transitionMetals{
+
+
+	background-color:tan;
+}
+
+
+.nonmetal{
+
+	background-color:green;
+
+}
+.number{
+
+	float:left;
+}
+.symbol{
+	
+	text-align:center;
+	font-weight:bold;
+}
+.itomic{
+
+
+	float:right;
+}
+.odd{
+
+	background-color:pink;
+}
+
+.linthanoids{
+
+	background-color:orange;
+}
+
+.alright{
+
+	background-color:grey;
+}
+
+
+body
+{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQAUGW12X5vnJs66SXwpUZ2jveHmZK3OdNDMtFTfYWhaEc19qxA")
+}
+
+
+@media only screen and (min-width: 100px) {
+ .tafole
+
+}
+@media only screen and (min-width: 300px) {
+ .tafole
+
+}
+
+@media only screen and (min-width: 480px) {
+ .tafole
+
+}
+
+@media only screen and (min-width: 600px) {
+ .tafole
+
+}
+
+@media only screen and (min-width: 768px) {
+    .tafole
+} 
+
+@media only screen and (min-width: 992px) {
+    .tafole
+} 
+
+@media only screen and (min-width: 1200px) {
+   .tafole
+
+}
+
+
+ </style>
